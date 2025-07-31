@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>
+     </title>
+            </head>
+<body>
+The County Resort (home.html)
+We take pride in ensuring our guests enjoy the most relaxing and comfortable stay in tastefully furnished rooms and suites offering Spectacular Ocean, pool and garden views.
+For dining and entertainment, guests can choose from three themed superb restaurants, two great bars, and the exclusive Cocos Beach Bar, overlooking the beautiful Indian Ocean. There are five outdoor swimming pools with water slides, spring board, diving boards and four floodlit tennis courts that also serve as a landing ground for helicopters. 
+Located on a tranquil private beach south of Oceania is surrounded by holy forests and sacred land.
+Find us in different countries including:
+	Kenya – Headquarters
+	South Africa – Cape Town
+	Nigeria – Enugu
+	Egypt – Alexandria
+	Uganda - Jinja
+
+</body>
+       </html>
